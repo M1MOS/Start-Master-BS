@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body header {
+  background-color: #00004C;
+}
+body header .row .navmenu .nav-left {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+body header .row .navmenu .nav-left h3 {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 10px;
+  padding: 0;
+  margin: 0;
+}
+body header .row .navmenu .nav-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #858585;
+  text-transform: uppercase;
+  font-size: 10px;
+  gap: 10px;
+}
+body header .row .navmenu .nav-right p {
+  padding: 0;
+  margin: 0;
+}
+body main {
+  background-color: #0000FF;
+  padding: 90px 0px;
+}
+body main .row .main {
+  color: white;
+  text-align: center;
+}
+body main .row .main span {
+  font-size: 50px;
+  font-weight: 700;
+}
+body main .row .main h2 {
+  font-weight: 700;
+}
+body main .row .main button {
+  background-color: #ff004c;
+  font-size: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  margin: 25px 0px;
+  font-weight: bold;
+}
+body section .row .global .top {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+body section .row .global .top img {
+  border-radius: 50%;
+}
+body section .row .global .top h3 {
+  font-weight: 700;
+}
+body section .row .global .top p {
+  font-size: 10px;
+}
+body section .row .global .central {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+body section .row .global .central img {
+  border-radius: 50%;
+}
+body section .row .global .central h3 {
+  font-weight: 700;
+}
+body section .row .global .central p {
+  font-size: 10px;
+}
+body section .row .global .bottom {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+body section .row .global .bottom img {
+  border-radius: 50%;
+}
+body section .row .global .bottom h3 {
+  font-weight: 700;
+}
+body section .row .global .bottom p {
+  font-size: 10px;
+}
+body footer {
+  background-color: #000000;
+  padding: 15px 0px;
+}
+body footer .row .foot {
+  text-align: center;
+}
+body footer .row .foot p {
+  font-size: 10px;
+  padding: 0;
+  margin: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
